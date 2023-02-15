@@ -15,7 +15,7 @@ int main(){
     int num_secreto = numerogrande%100;
     int tentativas = 0;
     int chute;
-    double pontos = 1000;
+    double pontos = 1100;
 
 
 while(chute!=num_secreto){
